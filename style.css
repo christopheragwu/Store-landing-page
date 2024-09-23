@@ -1,0 +1,24 @@
+<style>
+      body {
+        scroll-behavior: smooth;
+      }
+      /* Header placeholder content styling */
+      .header-content {
+        height: 70vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-image: url(img/bg.png);
+      }
+      .header-content h1 {
+        font-size: 3rem;
+        font-weight: 700;
+      }
+      /* Footer styling */
+      footer {
+        background-color: #343a40;
+        color: white;
+        padding: 20px 0;
+        text-align: center;
+      }
+    </style>
